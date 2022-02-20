@@ -22,7 +22,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: <>
+bio: A self described AI enthusiast with a software engineering mindset.
 
 # Should the user's education and interests be displayed?
 display_education: true
@@ -44,9 +44,6 @@ education:
   - course: BS in Computer Science
     institution: University of Portland
     year: 2016
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -89,5 +86,5 @@ user_groups:
 - Visitors
 ---
 
-A self described AI enthusist with a software engineering mindset
+A self described AI enthusiast with a software engineering mindset.
 
