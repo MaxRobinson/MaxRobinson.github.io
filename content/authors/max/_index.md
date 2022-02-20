@@ -33,7 +33,7 @@ interests:
 - Reinforcement Learning
 - Machine Learning
 - Autonomous Cars
-- Runner & Soccers
+- Running & Soccer
 
 
 education:
