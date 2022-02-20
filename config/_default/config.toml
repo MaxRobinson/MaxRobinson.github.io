@@ -218,7 +218,7 @@ googleAnalytics = ""
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 
-favicon = "snow_crop_github.jpg"
+# favicon = "snow_crop_github.jpg"
 
 ############################
 ## Advanced options below ##
