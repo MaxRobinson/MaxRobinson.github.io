@@ -1,7 +1,7 @@
 # SITE SETUP
 # Documentation: https://sourcethemes.com/academic/
 
-favicon = "img/snow_crop_github.jpg"
+favicon = "img/logo.png"
 
 # marketing
 microsoft_clarity = ""
